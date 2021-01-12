@@ -3,3 +3,4 @@ users.bat
 tmp/tmplts/*
 tmp/distr/*
 yardsettings.json
+*.ospx
