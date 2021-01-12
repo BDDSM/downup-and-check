@@ -1,0 +1,3 @@
+[submodule "vendor/yabr"]
+	path = vendor/yabr
+	url = https://github.com/arkuznetsov/yabr.os
