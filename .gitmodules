@@ -1,3 +1,6 @@
 [submodule "vendor/yabr"]
 	path = vendor/yabr
 	url = https://github.com/arkuznetsov/yabr.os
+[submodule "vendor/yard"]
+	path = vendor/yard
+	url = https://github.com/arkuznetsov/yard
